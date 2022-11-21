@@ -1,4 +1,4 @@
-# lancheria Vue JS
+# lancheria Vue JS QuickStart
 
 just a small project for vue feeding
 
